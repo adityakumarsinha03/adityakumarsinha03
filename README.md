@@ -14,7 +14,7 @@ Checkout my <a href="github.com/adityakumarsinha03">website</a> for more informa
 ### <h3 align="center">Languages and Tools</h3>
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/php.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img src="https://img.icons8.com/color/48/000000/wordpress.png"/><img src="https://img.icons8.com/color/48/000000/github.png"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyaastha&theme=nightowl"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumarsinha03&theme=nightowl"></p>
 
 -----
 
@@ -24,3 +24,4 @@ Checkout my <a href="github.com/adityakumarsinha03">website</a> for more informa
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=adityakumarsinha03&theme=nightowl" width="48%" >
 <p align="center"><img src="https://profile-counter.glitch.me/adityakumarsinha03/count.svg" alt="Visitor Count" align="center" /></p>
 </p>
+d
