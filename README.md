@@ -1,4 +1,4 @@
-### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=40&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Sinha)](https://git.io/typing-svg) </h1>
+### <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=40&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Kr+Sinha)](https://git.io/typing-svg) </h1>
 <h3 align="center">A passionate tech enthusiast<br>
 Checkout my <a href="github.com/adityakumarsinha03">website</a> for more information.</h3>
 
